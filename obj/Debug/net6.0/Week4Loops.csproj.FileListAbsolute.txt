@@ -1,0 +1,15 @@
+/Users/alyaklyusheva/Projects/Week4Loops/bin/Debug/net6.0/Week4Loops
+/Users/alyaklyusheva/Projects/Week4Loops/bin/Debug/net6.0/Week4Loops.deps.json
+/Users/alyaklyusheva/Projects/Week4Loops/bin/Debug/net6.0/Week4Loops.runtimeconfig.json
+/Users/alyaklyusheva/Projects/Week4Loops/bin/Debug/net6.0/Week4Loops.dll
+/Users/alyaklyusheva/Projects/Week4Loops/bin/Debug/net6.0/Week4Loops.pdb
+/Users/alyaklyusheva/Projects/Week4Loops/obj/Debug/net6.0/Week4Loops.csproj.AssemblyReference.cache
+/Users/alyaklyusheva/Projects/Week4Loops/obj/Debug/net6.0/Week4Loops.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alyaklyusheva/Projects/Week4Loops/obj/Debug/net6.0/Week4Loops.AssemblyInfoInputs.cache
+/Users/alyaklyusheva/Projects/Week4Loops/obj/Debug/net6.0/Week4Loops.AssemblyInfo.cs
+/Users/alyaklyusheva/Projects/Week4Loops/obj/Debug/net6.0/Week4Loops.csproj.CoreCompileInputs.cache
+/Users/alyaklyusheva/Projects/Week4Loops/obj/Debug/net6.0/Week4Loops.dll
+/Users/alyaklyusheva/Projects/Week4Loops/obj/Debug/net6.0/refint/Week4Loops.dll
+/Users/alyaklyusheva/Projects/Week4Loops/obj/Debug/net6.0/Week4Loops.pdb
+/Users/alyaklyusheva/Projects/Week4Loops/obj/Debug/net6.0/Week4Loops.genruntimeconfig.cache
+/Users/alyaklyusheva/Projects/Week4Loops/obj/Debug/net6.0/ref/Week4Loops.dll

@@ -1,0 +1,15 @@
+/Users/alyaklyusheva/Projects/ForLoopSum/bin/Debug/net6.0/ForLoopSum
+/Users/alyaklyusheva/Projects/ForLoopSum/bin/Debug/net6.0/ForLoopSum.deps.json
+/Users/alyaklyusheva/Projects/ForLoopSum/bin/Debug/net6.0/ForLoopSum.runtimeconfig.json
+/Users/alyaklyusheva/Projects/ForLoopSum/bin/Debug/net6.0/ForLoopSum.dll
+/Users/alyaklyusheva/Projects/ForLoopSum/bin/Debug/net6.0/ForLoopSum.pdb
+/Users/alyaklyusheva/Projects/ForLoopSum/obj/Debug/net6.0/ForLoopSum.csproj.AssemblyReference.cache
+/Users/alyaklyusheva/Projects/ForLoopSum/obj/Debug/net6.0/ForLoopSum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alyaklyusheva/Projects/ForLoopSum/obj/Debug/net6.0/ForLoopSum.AssemblyInfoInputs.cache
+/Users/alyaklyusheva/Projects/ForLoopSum/obj/Debug/net6.0/ForLoopSum.AssemblyInfo.cs
+/Users/alyaklyusheva/Projects/ForLoopSum/obj/Debug/net6.0/ForLoopSum.csproj.CoreCompileInputs.cache
+/Users/alyaklyusheva/Projects/ForLoopSum/obj/Debug/net6.0/ForLoopSum.dll
+/Users/alyaklyusheva/Projects/ForLoopSum/obj/Debug/net6.0/refint/ForLoopSum.dll
+/Users/alyaklyusheva/Projects/ForLoopSum/obj/Debug/net6.0/ForLoopSum.pdb
+/Users/alyaklyusheva/Projects/ForLoopSum/obj/Debug/net6.0/ForLoopSum.genruntimeconfig.cache
+/Users/alyaklyusheva/Projects/ForLoopSum/obj/Debug/net6.0/ref/ForLoopSum.dll

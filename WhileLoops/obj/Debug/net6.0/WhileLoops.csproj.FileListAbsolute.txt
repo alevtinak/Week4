@@ -1,0 +1,15 @@
+/Users/alyaklyusheva/Projects/WhileLoops/bin/Debug/net6.0/WhileLoops
+/Users/alyaklyusheva/Projects/WhileLoops/bin/Debug/net6.0/WhileLoops.deps.json
+/Users/alyaklyusheva/Projects/WhileLoops/bin/Debug/net6.0/WhileLoops.runtimeconfig.json
+/Users/alyaklyusheva/Projects/WhileLoops/bin/Debug/net6.0/WhileLoops.dll
+/Users/alyaklyusheva/Projects/WhileLoops/bin/Debug/net6.0/WhileLoops.pdb
+/Users/alyaklyusheva/Projects/WhileLoops/obj/Debug/net6.0/WhileLoops.csproj.AssemblyReference.cache
+/Users/alyaklyusheva/Projects/WhileLoops/obj/Debug/net6.0/WhileLoops.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alyaklyusheva/Projects/WhileLoops/obj/Debug/net6.0/WhileLoops.AssemblyInfoInputs.cache
+/Users/alyaklyusheva/Projects/WhileLoops/obj/Debug/net6.0/WhileLoops.AssemblyInfo.cs
+/Users/alyaklyusheva/Projects/WhileLoops/obj/Debug/net6.0/WhileLoops.csproj.CoreCompileInputs.cache
+/Users/alyaklyusheva/Projects/WhileLoops/obj/Debug/net6.0/WhileLoops.dll
+/Users/alyaklyusheva/Projects/WhileLoops/obj/Debug/net6.0/refint/WhileLoops.dll
+/Users/alyaklyusheva/Projects/WhileLoops/obj/Debug/net6.0/WhileLoops.pdb
+/Users/alyaklyusheva/Projects/WhileLoops/obj/Debug/net6.0/WhileLoops.genruntimeconfig.cache
+/Users/alyaklyusheva/Projects/WhileLoops/obj/Debug/net6.0/ref/WhileLoops.dll

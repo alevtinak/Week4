@@ -1,0 +1,15 @@
+/Users/alyaklyusheva/Projects/RandomNumber/bin/Debug/net6.0/RandomNumber
+/Users/alyaklyusheva/Projects/RandomNumber/bin/Debug/net6.0/RandomNumber.deps.json
+/Users/alyaklyusheva/Projects/RandomNumber/bin/Debug/net6.0/RandomNumber.runtimeconfig.json
+/Users/alyaklyusheva/Projects/RandomNumber/bin/Debug/net6.0/RandomNumber.dll
+/Users/alyaklyusheva/Projects/RandomNumber/bin/Debug/net6.0/RandomNumber.pdb
+/Users/alyaklyusheva/Projects/RandomNumber/obj/Debug/net6.0/RandomNumber.csproj.AssemblyReference.cache
+/Users/alyaklyusheva/Projects/RandomNumber/obj/Debug/net6.0/RandomNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alyaklyusheva/Projects/RandomNumber/obj/Debug/net6.0/RandomNumber.AssemblyInfoInputs.cache
+/Users/alyaklyusheva/Projects/RandomNumber/obj/Debug/net6.0/RandomNumber.AssemblyInfo.cs
+/Users/alyaklyusheva/Projects/RandomNumber/obj/Debug/net6.0/RandomNumber.csproj.CoreCompileInputs.cache
+/Users/alyaklyusheva/Projects/RandomNumber/obj/Debug/net6.0/RandomNumber.dll
+/Users/alyaklyusheva/Projects/RandomNumber/obj/Debug/net6.0/refint/RandomNumber.dll
+/Users/alyaklyusheva/Projects/RandomNumber/obj/Debug/net6.0/RandomNumber.pdb
+/Users/alyaklyusheva/Projects/RandomNumber/obj/Debug/net6.0/RandomNumber.genruntimeconfig.cache
+/Users/alyaklyusheva/Projects/RandomNumber/obj/Debug/net6.0/ref/RandomNumber.dll
